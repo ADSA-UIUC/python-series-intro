@@ -1,4 +1,4 @@
-# ADSA Spring 2016 Workshop: Introduction to Python
+# ADSA Spring 2017 Workshop: Introduction to Python
 Intro to Python class using the Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
 ## Terminal Tutorial
