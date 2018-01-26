@@ -6,12 +6,11 @@ Here are slides for an optional Terminal Tutorial:
 https://docs.google.com/presentation/d/1BcwId-RtkfJhRpcehult_MCTL1HyIdxKAZsN9I8IxIc/edit?usp=sharing
 
 ## Running the Workshop
-* Click the green "Clone or Download" button in the upper right, and download the zip file for the workshop
-* Go to [tmpnb.org](https://tmpnb.org)
-* Press "upload", and select the file "intro-to-python.ipynb" from the zip
-* Double click the intro-to-python file on the website and you're good to go
+* Download Enthought Canopy from here: https://store.enthought.com/downloads/
+* Download the workshop files by clickinng the 'clone or download' button on the top right of the github repo.
+* In Canopy, click open an exiting file and open the workshop ipython notebook you just downloaded from the repo.
 
-## Or Optionally Install Python 2.7 using the Anaconda Python Distribution and Run the Workshop Locally
+## Or Optionally Install Python 3 using the Anaconda Python Distribution and Run the Workshop Locally
 
 Download links:
 * [Windows](https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda2-2.4.1-Windows-x86_64.exe)
