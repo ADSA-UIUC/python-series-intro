@@ -10,6 +10,8 @@ https://docs.google.com/presentation/d/1BcwId-RtkfJhRpcehult_MCTL1HyIdxKAZsN9I8I
 * Download the workshop files by clickinng the 'clone or download' button on the top right of the github repo.
 * In Canopy, click open an exiting file and open the workshop ipython notebook you just downloaded from the repo.
 
+* Comprehensive directions found here: https://support.enthought.com/hc/en-us/articles/204469780-Quick-Start-Guide-to-Installing-Canopy-and-Packages?mobile_site=true
+
 ## Or Optionally Install Python 3 using the Anaconda Python Distribution and Run the Workshop Locally
 
 Download links:
